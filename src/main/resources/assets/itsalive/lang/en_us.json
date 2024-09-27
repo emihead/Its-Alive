@@ -1,0 +1,21 @@
+{
+  "block.itsalive.sculk_tooth": "Sculk Tooth",
+  "block.itsalive.sculk_tendrils": "Sculk Tendrils",
+  "block.itsalive.tall_sculk_tendrils": "Tall Sculk Tendrils",
+  "block.itsalive.enamel_bricks": "Enamel Bricks",
+  "block.itsalive.enamel_brick_slab": "Enamel Brick Slab",
+  "block.itsalive.enamel_brick_stairs": "Enamel Brick Stairs",
+  "block.itsalive.enamel_column": "Enamel Column",
+  "block.itsalive.spinal_column": "Spinal Column",
+  "block.itsalive.brushed_sculk_tooth": "Brushed Sculk Tooth",
+  "block.itsalive.brushed_enamel_bricks": "Brushed Enamel Bricks",
+  "block.itsalive.brushed_enamel_brick_slab": "Brushed Enamel Brick Slab",
+  "block.itsalive.brushed_enamel_brick_stairs": "Brushed Enamel Brick Stairs",
+  "block.itsalive.brushed_enamel_column": "Brushed Enamel Column",
+  "block.itsalive.sculk_thatch": "Sculk Thatch",
+  "block.itsalive.sculk_thatch_slab": "Sculk Thatch Slab",
+  "block.itsalive.sculk_thatch_stairs": "Sculk Thatch Stairs",
+  "itsalive.subtitles.tooth_brush": "Sculk Tooth brushed",
+  "itsalive.advancement.dental_hygenist.title": "Dental Hygenist",
+  "itsalive.advancement.dental_hygenist.description": "Brush a Sculk Tooth"
+}

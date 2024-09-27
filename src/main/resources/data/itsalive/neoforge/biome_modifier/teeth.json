@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:deep_dark",
+  "features": ["itsalive:tooth_placed", "itsalive:ceiling_tooth_placed", "itsalive:tall_tendrils_placed", "itsalive:tendrils_placed"],
+  "step": "vegetal_decoration"
+}

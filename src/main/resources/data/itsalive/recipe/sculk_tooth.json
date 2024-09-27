@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "BBB",
+      "BSB",
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:bone_block"
+      },
+      "S": {
+        "item": "minecraft:sculk"
+      }
+    },
+    "result": {
+      "id": "itsalive:sculk_tooth",
+      "count": 8
+    }
+  }
+  

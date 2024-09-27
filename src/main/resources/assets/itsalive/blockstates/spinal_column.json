@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "itsalive:block/spinal_column",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "itsalive:block/spinal_column"
+    },
+    "axis=z": {
+      "model": "itsalive:block/spinal_column",
+      "x": 90
+    }
+  }
+}

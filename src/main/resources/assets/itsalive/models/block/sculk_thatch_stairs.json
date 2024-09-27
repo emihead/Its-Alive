@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "itsalive:block/sculk_thatch",
+    "side": "itsalive:block/sculk_thatch",
+    "top": "itsalive:block/sculk_thatch"
+  }
+}

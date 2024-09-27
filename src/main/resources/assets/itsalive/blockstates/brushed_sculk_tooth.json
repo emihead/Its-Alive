@@ -1,0 +1,55 @@
+{
+    "variants": {
+      "facing=east,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth",
+        "x": 90,
+        "y": 90
+      },
+      "facing=west,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth",
+        "x": 90,
+        "y": 270
+      },
+      "facing=up,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth"
+      },
+      "facing=down,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth",
+        "x": 180
+      },
+      "facing=north,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth",
+        "x": 90
+      },
+      "facing=south,connection=false": {
+        "model": "itsalive:block/brushed_sculk_tooth",
+        "x": 270
+      },
+      "facing=east,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base",
+        "x": 90,
+        "y": 90
+      },
+      "facing=west,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base",
+        "x": 90,
+        "y": 270
+      },
+      "facing=up,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base"
+      },
+      "facing=down,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base",
+        "x": 180
+      },
+      "facing=north,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base",
+        "x": 90
+      },
+      "facing=south,connection=true": {
+        "model": "itsalive:block/brushed_sculk_tooth_base",
+        "x": 270
+      }
+    }
+  }
+  

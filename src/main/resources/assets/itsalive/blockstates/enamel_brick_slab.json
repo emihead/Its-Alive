@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "itsalive:block/enamel_brick_slab"
+    },
+    "type=double": {
+      "model": "itsalive:block/enamel_bricks"
+    },
+    "type=top": {
+      "model": "itsalive:block/enamel_brick_slab_top"
+    }
+  }
+}

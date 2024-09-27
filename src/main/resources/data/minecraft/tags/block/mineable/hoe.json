@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+      "itsalive:sculk_tooth",
+      "itsalive:enamel_bricks",
+      "itsalive:enamel_brick_slab",
+      "itsalive:enamel_brick_stairs",
+      "itsalive:enamel_column",
+      "itsalive:spinal_column",
+      "itsalive:brushed_sculk_tooth",
+      "itsalive:brushed_enamel_bricks",
+      "itsalive:brushed_enamel_brick_slab",
+      "itsalive:brushed_enamel_brick_stairs",
+      "itsalive:brushed_enamel_column",
+      "itsalive:sculk_thatch",
+      "itsalive:sculk_thatch_slab",
+      "itsalive:sculk_thatch_stairs"
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "TT ",
+      "TT ",
+      "   "
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:sculk_tendrils"
+      }
+    },
+    "result": {
+      "id": "itsalive:sculk_thatch",
+      "count": 1
+    }
+  }
+  

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "itsalive:block/tall_sculk_tendrils_bottom"
+    },
+    "half=upper": {
+      "model": "itsalive:block/tall_sculk_tendrils_top"
+    }
+  }
+}

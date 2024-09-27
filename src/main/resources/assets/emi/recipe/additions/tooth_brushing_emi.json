@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:itsalive:sculk_tooth",
+  "right": "item:minecraft:brush",
+  "output": "item:itsalive:brushed_sculk_tooth"
+}

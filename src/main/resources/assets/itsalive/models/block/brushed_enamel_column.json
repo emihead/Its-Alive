@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "itsalive:block/brushed_enamel_column_top",
+      "side": "itsalive:block/brushed_enamel_column"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "itsalive:block/brushed_enamel_column",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "itsalive:block/brushed_enamel_column"
+    },
+    "axis=z": {
+      "model": "itsalive:block/brushed_enamel_column",
+      "x": 90
+    }
+  }
+}

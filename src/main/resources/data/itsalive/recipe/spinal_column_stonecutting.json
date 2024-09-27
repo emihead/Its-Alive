@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "itsalive:enamel_column"
+  },
+  "result": {
+    "count": 1,
+    "id": "itsalive:spinal_column"
+  }
+}

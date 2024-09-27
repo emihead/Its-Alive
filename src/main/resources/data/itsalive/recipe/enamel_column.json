@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "   ",
+      " T ",
+      " T "
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:sculk_tooth"
+      }
+    },
+    "result": {
+      "id": "itsalive:enamel_column",
+      "count": 1
+    }
+  }
+  

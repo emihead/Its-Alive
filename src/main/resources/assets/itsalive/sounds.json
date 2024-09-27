@@ -1,0 +1,8 @@
+{
+    "block.tooth_brush": {
+        "subtitle": "itsalive.subtitles.tooth_brush",
+        "sounds": [
+            "itsalive:block/tooth_brush"
+        ]
+    }
+}

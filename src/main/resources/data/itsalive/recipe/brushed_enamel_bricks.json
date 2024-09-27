@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "TT ",
+      "TT ",
+      "   "
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:brushed_sculk_tooth"
+      }
+    },
+    "result": {
+      "id": "itsalive:brushed_enamel_bricks",
+      "count": 4
+    }
+  }
+  

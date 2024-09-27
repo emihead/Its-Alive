@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "itsalive:brushed_enamel_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "itsalive:brushed_enamel_brick_slab"
+  }
+}

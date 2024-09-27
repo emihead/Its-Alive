@@ -1,0 +1,21 @@
+{
+  "block.itsalive.sculk_tooth": "Diente de sculk",
+  "block.itsalive.sculk_tendrils": "Zarcillos de sculk",
+  "block.itsalive.tall_sculk_tendrils": "Zarcillos de sculk altos",
+  "block.itsalive.enamel_bricks": "Ladrillos de esmalte",
+  "block.itsalive.enamel_brick_slab": "Losa de ladrillos de esmalte",
+  "block.itsalive.enamel_brick_stairs": "Escaleras de ladrillos de esmalte",
+  "block.itsalive.enamel_column": "Columna de esmalte",
+  "block.itsalive.spinal_column": "Columna vertebral",
+  "block.itsalive.brushed_sculk_tooth": "Diente de sculk cepillado",
+  "block.itsalive.brushed_enamel_bricks": "Ladrillos de esmalte cepillado",
+  "block.itsalive.brushed_enamel_brick_slab": "Losa de ladrillos de esmalte cepillado",
+  "block.itsalive.brushed_enamel_brick_stairs": "Escaleras de ladrillos de esmalte cepillado",
+  "block.itsalive.brushed_enamel_column": "Columna de esmalte cepillado",
+  "block.itsalive.sculk_thatch": "Paja de sculk",
+  "block.itsalive.sculk_thatch_slab": "Losa de paja de sculk",
+  "block.itsalive.sculk_thatch_stairs": "Escaleras de paja de sculk",
+  "itsalive.subtitles.tooth_brush": "Diente de sculk cepillado",
+  "itsalive.advancement.dental_hygenist.title": "Higienista dental",
+  "itsalive.advancement.dental_hygenist.description": "Cepilla un diente de sculk."
+}

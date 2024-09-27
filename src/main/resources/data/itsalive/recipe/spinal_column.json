@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "   ",
+      " T ",
+      " T "
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:enamel_column"
+      }
+    },
+    "result": {
+      "id": "itsalive:spinal_column",
+      "count": 1
+    }
+  }
+  

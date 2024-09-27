@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "itsalive:block/brushed_enamel_bricks",
+    "side": "itsalive:block/brushed_enamel_bricks",
+    "top": "itsalive:block/brushed_enamel_bricks"
+  }
+}

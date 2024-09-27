@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.emihead.itsalive.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BrushMixin",
+    "SculkMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

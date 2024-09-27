@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "itsalive:block/tall_sculk_tendrils_top"
+    }
+  }

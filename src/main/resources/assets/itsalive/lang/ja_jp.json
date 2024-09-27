@@ -1,0 +1,21 @@
+{
+  "block.itsalive.sculk_tooth": "スカルクトゥース",
+  "block.itsalive.sculk_tendrils": "スカルクテンドリル",
+  "block.itsalive.tall_sculk_tendrils": "背の高いスカルクテンドリル",
+  "block.itsalive.enamel_bricks": "エナメルレンガ",
+  "block.itsalive.enamel_brick_slab": "エナメルレンガのハーフブロック",
+  "block.itsalive.enamel_brick_stairs": "エナメルレンガの階段",
+  "block.itsalive.enamel_column": "エナメルコラム",
+  "block.itsalive.spinal_column": "脊椎コラム",
+  "block.itsalive.brushed_sculk_tooth": "磨かれたスカルクトゥース",
+  "block.itsalive.brushed_enamel_bricks": "磨かれたエナメルレンガ",
+  "block.itsalive.brushed_enamel_brick_slab": "磨かれたエナメルレンガのハーフブロック",
+  "block.itsalive.brushed_enamel_brick_stairs": "磨かれたエナメルレンガの階段",
+  "block.itsalive.brushed_enamel_column": "柱状のエナメルコラム",
+  "block.itsalive.sculk_thatch": "スカルク葺き",
+  "block.itsalive.sculk_thatch_slab": "スカルク葺きのハーフブロック",
+  "block.itsalive.sculk_thatch_stairs": "スカルク葺きの階段",
+  "itsalive.subtitles.tooth_brush": "スカルクトゥースを磨かれる",
+  "itsalive.advancement.dental_hygenist.title": "歯科衛生士",
+  "itsalive.advancement.dental_hygenist.description": "スカルクトゥースを磨こう。"
+}

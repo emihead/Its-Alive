@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "TAT",
+      "A A",
+      "SSS"
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:sculk_tendrils"
+      },
+      "S": {
+        "item": "minecraft:sculk"
+      },
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "result": {
+      "id": "minecraft:calibrated_sculk_sensor",
+      "count": 1
+    }
+  }
+  

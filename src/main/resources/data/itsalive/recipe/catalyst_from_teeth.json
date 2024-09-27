@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "SSS",
+      "TET",
+      "TTT"
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:sculk_tooth"
+      },
+      "S": {
+        "item": "minecraft:sculk"
+      },
+      "E": {
+        "item": "minecraft:echo_shard"
+      }
+    },
+    "result": {
+      "id": "minecraft:sculk_catalyst",
+      "count": 1
+    }
+  }
+  

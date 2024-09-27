@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "   ",
+      "T T",
+      "SSS"
+    ],
+    "key": {
+      "T": {
+        "item": "itsalive:sculk_tendrils"
+      },
+      "S": {
+        "item": "minecraft:sculk"
+      }
+    },
+    "result": {
+      "id": "minecraft:sculk_sensor",
+      "count": 1
+    }
+  }
+  

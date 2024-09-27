@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "itsalive:block/sculk_thatch_slab"
+    },
+    "type=double": {
+      "model": "itsalive:block/sculk_thatch"
+    },
+    "type=top": {
+      "model": "itsalive:block/sculk_thatch_slab_top"
+    }
+  }
+}

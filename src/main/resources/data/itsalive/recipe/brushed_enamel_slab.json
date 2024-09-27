@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "blocks",
+    "pattern": [
+      "   ",
+      "   ",
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "itsalive:brushed_enamel_bricks"
+      }
+    },
+    "result": {
+      "id": "itsalive:brushed_enamel_brick_slab",
+      "count": 6
+    }
+  }SS
+  
